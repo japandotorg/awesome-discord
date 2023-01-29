@@ -299,7 +299,6 @@ A list of official resources provided by Discord.
 * [Discord Client Downloads](https://discord.com/download) - All official downloadable Discord clients.
 * [Discord Branding Page](https://discord.com/branding) - The official branding page for Discord.
 * [Discord Security Bug Bounties](https://discord.com/security) - The place to submit security vulnerabilities within Discord.
-* 
 
 ### Community Programs
 
