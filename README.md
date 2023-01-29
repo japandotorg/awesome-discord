@@ -241,7 +241,7 @@ A list of official and unofficial Discord clients.
 > Use of "client mods" are against the Discord TOS - use at your own risk.
 
 > **Note**
-> All the softwares here redirect to the Windows installer only.
+> All the official clients here redirect to the Windows installer only.
 
 * [Discord](https://discord.com/api/download/stable?platform=win) - The official Discord Client application.
 * [Discord PTB](https://discord.com/api/download/ptb?platform=win) - The official public test build client.
