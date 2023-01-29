@@ -28,6 +28,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
         - [Links](#links)
         - [Community Programs](#community-programs)
         - [Documents](#documents)
+    - [Contributing](#contributing)
 
 ## What is Discord
 
@@ -140,6 +141,8 @@ A list of wrapper libraries for the Discord Game SDK & RPC.
 * [discord-rpc](https://github.com/Vatuu/discord-rpc) - Java wrapper of the Discord-RPC Library for Discord Rich Presence.
 * [riche](https://github.com/antsif-a/riche) - A powerful library for interacting with the Discord RPC.
 
+**[Back To Top](#contents)**
+
 ## Misc Resources
 
 A list of resources that goes off with the Discord ecosystem.
@@ -171,6 +174,8 @@ A list of resources that goes off with the Discord ecosystem.
 * [BotBlock](https://botblock.org) - Simplify sending your bot's guild count with the BotBlock API.
 * [DiscordIPC](https://github.com/jagrosh/DiscordIPC) - Connect locally to the Discord client using IPC for a subset of RPC features like Rich Presence and Activity Join/Spectate.
 
+**[Back To Top](#contents)**
+
 ## Bots
 
 A list of Discord Bots.
@@ -187,6 +192,8 @@ A list of Discord Bots that can be self hosted by anyone & everyone.
 * [discord-tickets](https://github.com/discord-tickets/bot) - A ticket management bot for Discord.
 * [aoede](https://github.com/codetheweb/aoede) - A self-hosted Spotify Discord music bot.
 * [NadekoBot](https://gitlab.com/Kwoth/nadekobot) - A self-hostable general purpose Discord bot.
+
+**[Back To Top](#contents)**
 
 ### Open Source Public Bots
 
@@ -208,6 +215,8 @@ A list of Discord Bots that are open source while serving millions of users.
 * [poketwo](https://github.com/poketwo/poketwo) - A pokemon discord bot.
 * [Discord-OwO-Bot](https://github.com/ChristopherBThai/Discord-OwO-Bot) - A Discord bot that will keep track of your OwO.
 
+**[Back To Top](#contents)**
+
 ### Public Bots
 
 A list of invitable Discord bots.
@@ -222,6 +231,8 @@ A list of invitable Discord bots.
 * [Virtual Fisher](https://virtualfisher.com) - Virtual Fisher is a discord game bot focused on fishing.
 * [MELON](https://melonbot.io) - An all-in-one multipurpose Discord bot.
 
+**[Back To Top](#contents)**
+
 ## Bot Lists
 
 A list of public discord bot lists.
@@ -235,6 +246,8 @@ A list of public discord bot lists.
 * [Discord Bot List](https://discordbotlist.com/)
 * [Discord Bots App](https://discordbots.app/)
 * [Discord Extreme List](https://discordextremelist.xyz/)
+
+**[Back To Top](#contents)**
 
 ## Clients
 
@@ -260,6 +273,8 @@ A list of official and unofficial Discord clients.
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - Open-source Sandbox Discord client for the privacy-minded.
 * [LemonCord](https://github.com/japandotorg/LemonCord) - A fast & light weight Discord client written in Rust.
 
+**[Back To Top](#contents)**
+
 ## Subreddits
 
 A list of community subreddits for Discord.
@@ -268,11 +283,15 @@ A list of community subreddits for Discord.
 * [/r/discord_bots](https://www.reddit.com/r/Discord_Bots) - A subreddit dedicated to discord bots.
 * [/r/discordservers](https://www.reddit.com/r/discordservers) - A subreddit dedicated to discord servers.
 
+**[Back To Top](#contents)**
+
 ## Community Guides & Tutorials
 
 * [An Idiot's Guide](https://anidiots.guide/) - A guide that makes the best effort on attempting at humanizing the use of the Discord.js library.
 * [Discord Guide](https://discordguide.github.io/#/index) - A guide that provides content, and support for how to utilize Discord.
 * [Server Advertisement Guide](https://austinhuang.me/advertising.html) - A helping guide to advertise Discord servers or bots.
+
+**[Back To Top](#contents)**
 
 ## Official Resources
 
@@ -284,6 +303,8 @@ A list of official resources provided by Discord.
 * [Discord Developers](https://discord.gg/discord-developers) - The official place to discuss Discord's API and SDKs with the community developers and Discord staffs.
 * [Discord API](https://discord.gg/discord-api) - The official Discord server for support related to all the official unofficial API libraries.
 * [Discord Games Lab](https://discord.gg/discordgameslab) - The official server for Discord's Games Lab.
+
+**[Back To Top](#contents)**
 
 ### Links
 
@@ -301,14 +322,35 @@ A list of official resources provided by Discord.
 * [Discord Branding Page](https://discord.com/branding) - The official branding page for Discord.
 * [Discord Security Bug Bounties](https://discord.com/security) - The place to submit security vulnerabilities within Discord.
 
+**[Back To Top](#contents)**
+
 ### Community Programs
 
 * [HypeSquad](https://discordapp.com/hypesquad) - Join the HypeSquad and let Discord support your gaming community.
 * [Partners](https://discordapp.com/partners) - Join the Discord fam and get partner-only tools to make you stand out.
 * [Verification](https://discordapp.com/verification) - Verify your server so people know where to find their favorites artists, esports organizations, and game studios.
 
+**[Back To Top](#contents)**
+
 ### Documents
 
 * [Slides](https://docs.google.com/presentation/d/18QQyl0WhTOdYt0F0mBPQf2AusBPF7HqP8e39zjEwKsc/edit#slide=id.g130c86c984d_0_12) & [Audio](https://cdn.discordapp.com/attachments/960960145800704030/982392876254232667/DAC_AuditingYourServer_ExperimentalContent.mp3) - A Discord presentation and audio regarding server audits.
 * [Audio](https://dis.gd/RadioDiscord_Accessibility) & [Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript) - A Discord interview about accessibility with a Discord employee. from the accessibility team.
 * [Audio](https://dis.gd/Radio-Discord-Forums-Beta) & [Transcript](https://dis.gd/Radio-Discord-Forums-Beta-Transcript) - The Discord community team talks about a new feature in testing: forums. 
+
+**[Back To Top](#contents)**
+
+## Contributing
+
+If you would like to contrtibute, please read [CONTRIBUTING.md](/CONTRIBUTING.md) first. It contains all the necessary information to help keep things organized. Just click [README.md](https://github.com/japandotorg/awesome-discord/edit/main/README.md) to submit a [pull request](https://github.com/japandotorg/awesome-discord/edit/main/README.md). IF this list is not complete, you can [contribute](https://github.com/japandotorg/awesome-discord/edit/main/README.md) to make it so. Here is a great video tutorial to learn how to [contribute on Github](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
+
+> Please, help organize these resources so that they are easy to find and understandable for newcomers. See how to [Contribute](/CONTRIBUTING.md) for tips!
+
+***If you see a link here that is not (any longer) a good fit, you can fix it by submitting a [pull request](https://github.com/japandotorg/awesome-discord/edit/main/README.md) to improve this file. Thank you!***
+
+The creators and maintainers of this list do not recieve any form of payment to accept a change made by any contributor. This page is not an official Discord product in any way. It is a list of links to projects and is maintained by volunteering contributors. Everybody is welcome to contribute. The goal of this repo is to index all-things-discord, not to advertise for profit.
+
+[![Contributors][contributors-image]][contributors-link]
+
+[contributors-image]: https://contrib.rocks/image?repo=japandotorg/awesome-discord
+[contributors-link]: https://github.com/japandotorg/awesome-discord/graphs/contributors
