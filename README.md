@@ -1,6 +1,6 @@
 [![Awesome Discord](./assets/awesome-discord.png)](https://github.com/japandotorg/awesome-discord)
 
-# Awesome Discord [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome Discord ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of awesome things realted to Discord.
 
