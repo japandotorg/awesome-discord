@@ -148,6 +148,7 @@ A list of resources that goes off with the Discord ecosystem.
 * [Lavalink](https://github.com/freyacodes/Lavalink) - Standalone audio sending node based on Lavaplayer.
 * [Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 * [Lavaplayer](https://github.com/sedmelluq/lavaplayer) - An audio player library for Discord written in Java.
+* [PyLav](https://github.com/Drapersniper/PyLav) - A multifunctional Lavalink wrapper library for Discord.py.
 * [discord-api-types](https://github.com/sedmelluq/lavaplayer) - Up to date Discord API Typings, versioned by the API version written in typescript.
 * [songbird](https://github.com/serenity-rs/songbird) - An async Rust library for the Discord voice API.
 * [vscord](https://github.com/leonardssh/vscord) - Fully customizable VS Code extension to get Discord Rich Presnece integration.
