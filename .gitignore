@@ -1,0 +1,11 @@
+.idea
+*.logs
+logs/**
+npm-debug.log*
+build
+node_modules
+.cache
+dist
+**/.DS_Store
+website/index.html
+website/table.html
