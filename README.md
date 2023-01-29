@@ -354,3 +354,5 @@ The creators and maintainers of this list do not recieve any form of payment to 
 
 [contributors-image]: https://contrib.rocks/image?repo=japandotorg/awesome-discord
 [contributors-link]: https://github.com/japandotorg/awesome-discord/graphs/contributors
+
+**[Back To Top](#contents)**
