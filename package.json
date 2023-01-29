@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "description": "A curated list of awesome things related to Discord.",
     "scripts": {
+        "build": "rimraf ./dist/ && node build.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
@@ -14,5 +15,13 @@
     "bugs": {
         "url": "https://github.com/japandotorg/awesome-discord/issues"
     },
-    "homepage": "https://github.com/japandotorg/awesome-discord#readme"
+    "homepage": "https://github.com/japandotorg/awesome-discord#readme",
+    "dependencies": {
+        "cheerio": "1.0.0-rc.12",
+        "draftlog": "1.0.13",
+        "fs-extra": "11.1.0",
+        "node-fetch": "3.3.0",
+        "rimraf": "4.1.2",
+        "showdown": "^2.1.0"
+    }
 }
