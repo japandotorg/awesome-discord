@@ -1,0 +1,18 @@
+{
+    "name": "@japandotorg/awesome-discord",
+    "version": "0.1.0",
+    "description": "A curated list of awesome things related to Discord.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/japandotorg/awesome-discord.git"
+    },
+    "author": "Lemon Rose <japandotorg@pm.me> [inthedark.org#0666]",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/japandotorg/awesome-discord/issues"
+    },
+    "homepage": "https://github.com/japandotorg/awesome-discord#readme"
+}
