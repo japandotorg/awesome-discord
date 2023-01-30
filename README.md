@@ -30,7 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
         - [Documents](#documents)
     - [Contributing](#contributing)
 
-## What is Discord
+## What is Discord?
 
 > [Discord](https://discord.com) is a [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP) and [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging) social platform. Users have the ability to communicate with [voice calls](https://en.wikipedia.org/wiki/Voice_over_IP), [video calls](https://en.wikipedia.org/wiki/Videotelephony), [text messaging](https://en.wikipedia.org/wiki/Text_messaging), media and files in private chats or as part of communities called [servers](https://medium.com/@kamalganwani4/what-is-discord-servers-how-to-use-discord-servers-how-to-create-discord-servers-49bfa2676f53). A server is a collection of persistent chat rooms and voice channels which can be accessed via [invite links](https://www.alphr.com/discord-create-invite-link/). Discord runs on [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows), [MacOS](https://en.wikipedia.org/wiki/MacOS), [Android](https://en.wikipedia.org/wiki/Android_(operating_system)), [iOS](https://en.wikipedia.org/wiki/IOS), [iPadOS](https://en.wikipedia.org/wiki/IPadOS), [Linux](https://en.wikipedia.org/wiki/Linux), and in [web browsers](https://en.wikipedia.org/wiki/Web_browser). As of 2021, the service has over 350 million [registered users](https://en.wikipedia.org/wiki/Registered_user) and over 150 million monthly [active users](https://en.wikipedia.org/wiki/Active_users). By 2021 Discord had an estimated value of $7 billion.  There have been as many as 936 million messages sent per day. 
 
