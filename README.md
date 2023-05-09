@@ -171,6 +171,7 @@ A list of resources that goes off with the Discord ecosystem.
 * [bot.discord.io](https://bot.discord.io/) - Create a custom invite link for your Discord bot.
 * [PreMiD](https://premid.app/) - PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status.
 * [Blob Emojis](https://blobs.gg) - Fun and playful Blob Emoji for Discord.
+* [DiscoTools](https://www.discordicon.com/) - Variety of role icons and emojis for Discord.
 * [BotBlock](https://botblock.org) - Simplify sending your bot's guild count with the BotBlock API.
 * [DiscordIPC](https://github.com/jagrosh/DiscordIPC) - Connect locally to the Discord client using IPC for a subset of RPC features like Rich Presence and Activity Join/Spectate.
 
